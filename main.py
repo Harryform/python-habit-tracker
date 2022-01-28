@@ -3,10 +3,10 @@ from datetime import datetime
 
 # log in info for requests
 
-USERNAME = "harryform"
-TOKEN = "lkasdnlaksdf"
+USERNAME = YOUR_USERNAME
+TOKEN = YOUR_TOKEN
 
-pixela_endpoint = "https://pixe.la/v1/users"
+pixela_endpoint = YOUR_PIXELA_ENDPOINT
 
 user_params = {
     "token": TOKEN,
